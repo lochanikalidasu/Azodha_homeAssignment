@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393683605572",
+    "firebase_url": "https://azodhainternship-default-rtdb.firebaseio.com",
+    "project_id": "azodhainternship",
+    "storage_bucket": "azodhainternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393683605572:android:ac21ab3e954c05a0ef4411",
+        "android_client_info": {
+          "package_name": "com.example.azodha_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsV2GXmr0ggCzGAWx6cSP-sZq_uuisfPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
